@@ -4,4 +4,3 @@
 |---------|-------|----------------|
 | Project_01 | Predicting CO2 Emission for Car Models | EDA, Data Modeling (Linear Regression, Multiple Linear Regression), Evaluation |
 | Project_02 | Predicting Car Price | EDA, Data Modeling (Linear Regression, Multiple Linear Regression), Evaluation |
-| Project_03 | Predicting CO2 Emission for Car Models | EDA, Data Modeling (Polynomial, Multiple Polynomial), Evaluation |
